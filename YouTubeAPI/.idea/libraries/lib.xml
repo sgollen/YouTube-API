@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/._google-http-client-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-http-client-jackson2-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/._jackson-core-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-client-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-http-client-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/._google-http-client-jackson2-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/._google-api-services-youtube-v3-rev182-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/._google-api-client-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-services-youtube-v3-rev182-1.22.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
