@@ -49,7 +49,7 @@ public class Main {
     // System.out.println(rootView.mytitle.size());
 
      public static void search (String searchyt) {
-         ModelYoutube youtubeModel = new ModelYoutube("AIzaSyBQmAwZxi80CV1EPHZU_MHFRdWpUbg1tOE",model); //, window);
+         ModelYoutube youtubeModel = new ModelYoutube("AIzaSyY_sBQmAwZxi80CV1EPHZU_MHFRdWpUbg1tOE",model); //, window);
          youtubeModel.searchVideos(searchyt);
      }
 
