@@ -12,7 +12,7 @@ public class Main {
     public static void main(String[] args) {
         JFrame window = new JFrame("YouTube Video Gallery ");
         myframe = window;
-        apiKey = "AIzaSyBQmAwZxi80CV1EPHZU_MHFRdWpUbg1tOE";
+        apiKey = "AIzaSyY_sBQmAwZxi80CV1EPHZU_MHFRdWpUbg1tOE";
         model = new Model();
         layout = new Layout(model, apiKey);
         window.setSize(1200, 700);
