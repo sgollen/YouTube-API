@@ -12,7 +12,7 @@ public class Main {
     public static void main(String[] args) {
         JFrame window = new JFrame("YouTube Video Gallery ");
         myframe = window;
-        apiKey = "AIzaSyY_sBQmAwZxi80CV1EPHZU_MHFRdWpUbg1tOE";
+        apiKey = "AIzaSyY_sBQmAwZxi80CV1EPHZU_MHFRdWpUbg1tOE"; // TEMP KEY(security) PLease contact me for correct key
         model = new Model();
         layout = new Layout(model, apiKey);
         window.setSize(1200, 700);
@@ -49,7 +49,7 @@ public class Main {
     // System.out.println(rootView.mytitle.size());
 
      public static void search (String searchyt) {
-         ModelYoutube youtubeModel = new ModelYoutube("AIzaSyY_sBQmAwZxi80CV1EPHZU_MHFRdWpUbg1tOE",model); //, window);
+         ModelYoutube youtubeModel = new ModelYoutube("AIzaSyY_sBQmAwZxi80CV1EPHZU_MHFRdWpUbg1tOE",model); //, window); // (TEMP KEY) SECURITY
          youtubeModel.searchVideos(searchyt);
      }
 
