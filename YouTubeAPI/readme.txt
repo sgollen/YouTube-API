@@ -1,5 +1,4 @@
 NAME: Samaksh Gollen
-ID: 20484987
 EventEnum.Java initializes enums for various events
 GridDisplayPanel.java updates the display of the video thumbnails
 IView.java is a custom Interface as learned in class.
